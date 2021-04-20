@@ -1,0 +1,31 @@
+.nameContentStyle {
+  color: blue;
+  padding: 10px;
+  border-style: double;
+  margin: 5px;
+  background-color: lightgray;
+}
+
+.card-occupation {
+  color: black;
+}
+
+.card-phone {
+  color: black;
+}
+
+.card-addressOne {
+  color: black;
+}
+
+.card-addressTwo {
+  color: black;
+}
+
+.card-city {
+  color: black;
+}
+
+.card-state {
+  color: black;
+}
