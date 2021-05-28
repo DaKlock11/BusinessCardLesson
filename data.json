@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "Steve",
+        "lastName": "Aoki",
+        "occupation": "DJ",
+        "address": "123 DJ Drive",
+        "phone": "555-555-5555"
+    },
+    {
+        "firstName": "David",
+        "lastName": "Guetta",
+        "occupation": "DJ",
+        "address": "1223 DJ Drive",
+        "phone": "555-555-5556"
+    },
+    {
+        "firstName": "Taylor",
+        "lastName": "Swoft",
+        "occupation": "Sanger",
+        "address": "123 Sangin' Drive",
+        "phone": "555-555-3555"
+    },
+    {
+        "firstName": "Mike",
+        "lastName": "Green",
+        "occupation": "Guitarist",
+        "address": "333 Walnut Drive",
+        "phone": "678-309-1216"
+    },
+    {
+        "firstName": "Calvin",
+        "lastName": "Harris",
+        "occupation": "God",
+        "address": "2 Spook Lane",
+        "phone": "610-987-4100"
+    }
+
+]
